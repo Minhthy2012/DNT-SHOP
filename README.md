@@ -32,8 +32,7 @@ Project Setup
 4. Create a database and import database/datnguyenthucshop.sql using phpMyAdmin.
 5. Update the database settings in config/db.php.
 6. Open the project in your browser:
-
-webbanhang.kesug.com
+https://webbanhang.kesug.com/?i=1
 
 Project Structure
 - admin/ – Admin pages
